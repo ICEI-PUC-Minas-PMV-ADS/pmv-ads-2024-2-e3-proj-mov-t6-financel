@@ -1,6 +1,6 @@
 # Introdução
 
-FinanCel e um aplicativo de controle financeiro pessoal funciona de uma maneira simples, funcional e intuitiva. Com ele, é possível organizar seus ganhos e gastos. O aplicativo permite a visão de entradas e saídas divididas por categorias. A partir dessa divisão, o usuário tem acesso a uma análise completa e visual da sua vida financeira, o que facilita o diagnóstico do seu controle financeiro.
+FinanCel e um aplicativo de controle financeiro pessoal que funciona de uma maneira simples, funcional e intuitiva. Com ele, é possível organizar seus ganhos e gastos. O aplicativo permite a visão de entradas e saídas divididas por categorias. A partir dessa divisão, o usuário tem acesso a uma análise completa e visual da sua vida financeira, o que facilita o diagnóstico do seu controle financeiro.
 O aplicativo possui outro ponto de destaque que é a possibilidade de definir metas de gastos, sem falar dos orçamentos capazes de facilitar e agilizar seu planejamento, consequentemente promover a  economia de dinheiro.
 
 ## Problema
