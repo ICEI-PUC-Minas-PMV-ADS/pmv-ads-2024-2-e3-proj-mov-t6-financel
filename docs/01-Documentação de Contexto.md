@@ -17,12 +17,17 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Objetivo geral: Desenvolver um aplicativo que permite a gestão financeira pessoal. 
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Além do objetivo geral pretende-se alcançar os seguintes objetivos específicos: 
+
+- Organização Financeira: Centralizar todas as informações financeiras em um único lugar como, despesas, contas a pagar, dívidas e investimentos.   
+
+- Monitoramento de Gastos: Permitir que o usuário acompanhe seus gastos em tempo real e categorizando despesas. 
+
+- Controle de Dívidas: Monitorar e gerenciar dívidas. 
  
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Consequentemente o app possibilita ao usuário a gestão dos seus gastos pessoais de maneira mais eficaz.
 
 ## Justificativa
 
