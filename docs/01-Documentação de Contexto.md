@@ -1,6 +1,7 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+FinanCel e um aplicativo de controle financeiro pessoal funciona de uma maneira simples, funcional e intuitiva. Com ele, é possível organizar seus ganhos e gastos. O aplicativo permite a visão de entradas e saídas divididas por categorias. A partir dessa divisão, o usuário tem acesso a uma análise completa e visual da sua vida financeira, o que facilita o diagnóstico do seu controle financeiro.
+O aplicativo possui outro ponto de destaque que é a possibilidade de definir metas de gastos, sem falar dos orçamentos capazes de facilitar e agilizar seu planejamento, consequentemente promover a  economia de dinheiro.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
