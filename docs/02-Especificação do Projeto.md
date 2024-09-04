@@ -8,19 +8,31 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+| FOTO               | INFORMAÇÕES COLETADAS                                     |                     
+|--------------------|-----------------------------------------------------------|
+|![JOÃO ]()|**JOÃO** <br><br> **Idade:** 20 anos |
+| | **OCUPAÇÃO:** Estudante de engenharia.|
+| | **OBJETIVOS:** Controlar gastos com alimentação, transporte e lazer, economizar para uma viagem e pagar as contas...|
+| | **DESAFAFIOS:** Orçamento limitado, gastos impulsivos, dificuldade em poupar...|
+| | **NECESSIDADES:** Um aplicativo simples e intuitivo, com recursos de orçamento e metas, que possa ser acessado pelo celular...|
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+| FOTO               | INFORMAÇÕES COLETADAS                                     |                     
+|--------------------|-----------------------------------------------------------|
+|![ANA ]()|**ANA** <br><br> **Idade:** 46 anos |
+| | **OCUPAÇÃO:** Dona de Casa.|
+| | **OBJETIVOS:** Controlar os gastos da família, pagar as contas em dia, economizar para a educação dos filhos...|
+| | **DESAFAFIOS:** Muitos gastos fixos, dificuldade em acompanhar todas as contas, falta de tempo para gerenciar as finanças...|
+| | **NECESSIDADES:** m aplicativo que permita o controle de múltiplas contas e categorias de gastos, com recursos de compartilhamento com o cônjuge...|
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+| FOTO               | INFORMAÇÕES COLETADAS                                     |                     
+|--------------------|-----------------------------------------------------------|
+|![LUCAS ]()|**LUCAS** <br><br> **Idade:** 30 anos |
+| | **OCUPAÇÃO:** Free Lancer.|
+| | **OBJETIVOS:** Organizar as finanças do negócio, emitir notas fiscais, declarar o imposto de renda...|
+| | **DESAFAFIOS:** Fluxo de caixa irregular, necessidade de emitir notas fiscais, dificuldade em separar os gastos pessoais dos profissionais...|
+| | **NECESSIDADES:** Um aplicativo que permita o controle de receitas e despesas do negócio,  com ferramentas de análise de contabilidade...|
+
+
 
 ## Histórias de Usuários
 
