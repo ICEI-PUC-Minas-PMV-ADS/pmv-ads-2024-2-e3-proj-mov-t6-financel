@@ -47,11 +47,14 @@ Em resumo, um aplicativo de controle financeiro pessoal é uma ferramenta essenc
 
 ## Público-Alvo
 
-O público-alvo para um aplicativo de controle financeiro pessoal é bastante amplo, abrangendo desde estudantes até profissionais liberais e famílias. No entanto, é possível identificar alguns segmentos com necessidades específicas, que podem ser o foco principal do seu aplicativo:
+O projeto é direcionado a um público diverso, que abrange desde estudantes e profissionais liberais até famílias. A seguir, apresentamos alguns exemplos de como nosso projeto pode ser útil:
 
-Segmentos de Público-Alvo:
-Estudantes e jovens: Buscam ferramentas simples e intuitivas para controlar gastos com alimentação, transporte e lazer, além de recursos para criar uma reserva financeira para estudos ou viagens.
-Profissionais iniciantes: Precisam de um aplicativo que os ajude a organizar as finanças, definir metas de economia e acompanhar os gastos com cartão de crédito.
-Famílias: Valorizam ferramentas para controle de gastos compartilhados, criação de orçamentos familiares e acompanhamento das finanças dos filhos.
-Pessoas com dívidas: Buscam um aplicativo que os ajude a organizar as dívidas, criar um plano de pagamento e acompanhar a evolução do endividamento.
-Investidores iniciantes: Desejam um aplicativo que permita acompanhar seus investimentos, simular diferentes cenários e aprender sobre educação financeira.
+- Estudantes e jovens: Geralmente procuram por ferramentas simples e intuitivas para gerenciar despesas com alimentação, transporte e lazer. Além disso, muitos desejam recursos que os ajudem a poupar dinheiro para estudos futuros ou viagens.
+
+- Profissionais iniciantes: Estão em busca de um aplicativo que os auxilie a organizar suas finanças, definir metas de economia e acompanhar os gastos no cartão de crédito, ajudando a construir uma base financeira sólida desde o início de suas carreiras.
+
+- Famílias: Valorizam funcionalidades que permitam controlar gastos compartilhados, criar orçamentos familiares e monitorar as finanças dos filhos, facilitando a gestão do orçamento doméstico.
+
+- Pessoas com dívidas: Procuram um aplicativo que ofereça suporte na organização das dívidas, na criação de um plano de pagamento e no acompanhamento do progresso na redução do endividamento.
+
+
