@@ -4,16 +4,16 @@ FinanCel e um aplicativo de controle financeiro pessoal que funciona de uma mane
 O aplicativo possui outro ponto de destaque que é a possibilidade de definir metas de gastos, sem falar dos orçamentos capazes de facilitar e agilizar seu planejamento, consequentemente promover a  economia de dinheiro.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Grande parte da população é negativamente afetada pela falta de controle financeiro. De acordo com levantamento feito pelo Serasa (2024), mais de 72 milhões de brasileiros atualmente tem dívidas registradas, com o valor médio das que são pagas reportado em cerca de 750 reais. Pode ser observado que com a maior digitalização das transações financeiras, nem sempre as finanças do indivíduo podem ser observadas com exatidão e isso pode contribuir para a vulnerabilidade financeira de diferentes formas. Por exemplo: 
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+A dificuldade em acompanhar de forma centralizada todas as transações como receitas, despesas, e investimentos impede uma visão clara da situação financeira. 
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Sem uma análise adequada das finanças, é difícil identificar e reduzir despesas que não são essenciais, o que prejudica o planejamento financeiro. 
+
+A ausência de definição e acompanhamento de metas impede o progresso em direção à estabilidade ou mesmo objetivos específicos sem comprometer outros compromissos financeiros. 
+
+Falta de informações claras e organizadas faz com que as pessoas tendem a tomar decisões financeiras mal planejadas. 
 
 ## Objetivos
 
@@ -31,12 +31,19 @@ Consequentemente o app possibilita ao usuário a gestão dos seus gastos pessoai
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A gestão financeira pessoal sempre foi um desafio para muitas pessoas. No entanto, a era digital, com suas facilidades e instantaneidade, fez crescer ainda mais esse problema. A facilidade com que realizamos compras online, a aquisição de cartões de crédito, além da variedade de serviços financeiros disponíveis, contribuem para um cenário de descontrole financeiro. A importância de um aplicativo de controle financeiro pessoal reside na necessidade de auxiliar as pessoas a: 
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Organizar suas finanças: Ao registrar todas as entradas e saídas de dinheiro, o usuário tem uma visão clara de sua situação financeira. 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Identificar gastos desnecessários: Com a ajuda de gráficos e relatórios, é possível identificar onde o dinheiro está sendo gasto e tomar decisões mais conscientes. 
+
+Estabelecer e alcançar metas: O aplicativo permite que o usuário defina metas financeiras e acompanhe seu progresso ao longo do tempo. 
+
+Tomar decisões financeiras mais assertivas: Com base nas informações fornecidas pelo aplicativo, o usuário pode tomar decisões mais inteligentes sobre investimentos, gastos e planejamento futuro. 
+
+Reduzir o estresse: Ao ter o controle de suas finanças, o usuário experimenta menos ansiedade e stress relacionados a questões financeiras. 
+
+Em resumo, um aplicativo de controle financeiro pessoal é uma ferramenta essencial para ajudar as pessoas a alcançar suas metas financeiras, proporcionando uma melhor de qualidade de vida aos seus usuários. 
 
 ## Público-Alvo
 
