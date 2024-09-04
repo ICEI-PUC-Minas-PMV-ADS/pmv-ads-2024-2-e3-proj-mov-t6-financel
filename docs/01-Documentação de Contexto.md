@@ -5,7 +5,7 @@ O aplicativo possui outro ponto de destaque que é a possibilidade de definir me
 
 ## Problema
 
-Grande parte da população é negativamente afetada pela falta de controle financeiro. De acordo com levantamento feito pelo Serasa (2023), mais de 72 milhões de brasileiros atualmente tem dívidas registradas, com o valor médio das que são pagas reportado em cerca de 750 reais. Pode ser observado que com a maior digitalização das transações financeiras, nem sempre as finanças do indivíduo podem ser observadas com exatidão e isso pode contribuir para a vulnerabilidade financeira de diferentes formas. Por exemplo: 
+Grande parte da população é negativamente afetada pela falta de controle financeiro. De acordo com levantamento feito pelo Serasa (2024), mais de 72 milhões de brasileiros atualmente tem dívidas registradas, com o valor médio das que são pagas reportado em cerca de 750 reais. Pode ser observado que com a maior digitalização das transações financeiras, nem sempre as finanças do indivíduo podem ser observadas com exatidão e isso pode contribuir para a vulnerabilidade financeira de diferentes formas. Por exemplo: 
 
 A dificuldade em acompanhar de forma centralizada todas as transações como receitas, despesas, e investimentos impede uma visão clara da situação financeira. 
 
@@ -61,4 +61,4 @@ O projeto é direcionado a um público diverso, que abrange desde estudantes e p
 
 # [Referências](/docs/13-Referências.md)
 
-SERASA. Mapa da inadimplência e renegociação de dívidas no Brasil. Serasa, 2023. Disponível em: https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/. Acesso em: 04 set. 2024.
+SERASA. Mapa da inadimplência e renegociação de dívidas no Brasil. Serasa, 2024. Disponível em: https://www.serasa.com.br/limpa-nome-online/blog/mapa-da-inadimplencia-e-renogociacao-de-dividas-no-brasil/. Acesso em: 04 set. 2024.
