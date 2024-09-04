@@ -4,7 +4,7 @@
 
 `DESENVOLVIMENTO DE UMA APLICAÇÃO MOVEL EM UM AMBIENTE DE NEGÓCIO
 
-`SEMESTRE`3 Semestre
+`3° SEMESTRE
 
 Será desenvolvido um aplicativo móvel que auxilie os usuários a gerenciar suas finanças de forma eficiente e prática. A ferramenta terá como foco principal oferecer um conjunto de recursos que permitam o acompanhamento de receitas, despesas, investimentos e metas financeiras.
 
