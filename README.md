@@ -1,23 +1,23 @@
-# TÍTULO DO PROJETO
+# Financel
 
 `CURSO`
 
 `DISCIPLINA`
 
-`SEMESTRE`
+`SEMESTRE`3 Semestre
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Será desenvolvido um aplicativo móvel que auxilie os usuários a gerenciar suas finanças de forma eficiente e prática. A ferramenta terá como foco principal oferecer um conjunto de recursos que permitam o acompanhamento de receitas, despesas, investimentos e metas financeiras.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Ariel Ortega Acerbi
+* Isabela Gontijo de Castro
+* Pedro Henrique Ferreira Amorim
+* Thiago Rodrigues Silva de Oliveira
 
 ## Orientador
 
-* Nome completo do professor 1
+* Sinaide Nunes Bezerra
 
 ## Instruções de utilização
 
