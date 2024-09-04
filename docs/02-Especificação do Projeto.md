@@ -12,25 +12,25 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |--------------------|-----------------------------------------------------------|
 |![JOÃO ]()|**JOÃO** <br><br> **Idade:** 20 anos |
 | | **OCUPAÇÃO:** Estudante de engenharia.|
-| | **OBJETIVOS:** Controlar gastos com alimentação, transporte e lazer, economizar para uma viagem e pagar as contas...|
-| | **DESAFAFIOS:** Orçamento limitado, gastos impulsivos, dificuldade em poupar...|
-| | **NECESSIDADES:** Um aplicativo simples e intuitivo, com recursos de orçamento e metas, que possa ser acessado pelo celular...|
+| | **OBJETIVOS:** Controlar gastos com alimentação, transporte e lazer, economizar para uma viagem e pagar as contas.|
+| | **DESAFAFIOS:** Orçamento limitado, gastos impulsivos, dificuldade em poupar.|
+| | **NECESSIDADES:** Um aplicativo simples e intuitivo, com recursos de orçamento e metas, que possa ser acessado pelo celular.|
 
 | FOTO               | INFORMAÇÕES COLETADAS                                     |                     
 |--------------------|-----------------------------------------------------------|
 |![ANA ]()|**ANA** <br><br> **Idade:** 46 anos |
 | | **OCUPAÇÃO:** Dona de Casa.|
-| | **OBJETIVOS:** Controlar os gastos da família, pagar as contas em dia, economizar para a educação dos filhos...|
-| | **DESAFAFIOS:** Muitos gastos fixos, dificuldade em acompanhar todas as contas, falta de tempo para gerenciar as finanças...|
-| | **NECESSIDADES:** m aplicativo que permita o controle de múltiplas contas e categorias de gastos, com recursos de compartilhamento com o cônjuge...|
+| | **OBJETIVOS:** Controlar os gastos da família, pagar as contas em dia, economizar para a educação dos filhos.|
+| | **DESAFAFIOS:** Muitos gastos fixos, dificuldade em acompanhar todas as contas, falta de tempo para gerenciar as finanças.|
+| | **NECESSIDADES:** Um aplicativo que permita o controle de múltiplas contas e categorias de gastos, com recursos de compartilhamento com o cônjuge.|
 
 | FOTO               | INFORMAÇÕES COLETADAS                                     |                     
 |--------------------|-----------------------------------------------------------|
 |![LUCAS ]()|**LUCAS** <br><br> **Idade:** 30 anos |
 | | **OCUPAÇÃO:** Free Lancer.|
-| | **OBJETIVOS:** Organizar as finanças do negócio, emitir notas fiscais, declarar o imposto de renda...|
-| | **DESAFAFIOS:** Fluxo de caixa irregular, necessidade de emitir notas fiscais, dificuldade em separar os gastos pessoais dos profissionais...|
-| | **NECESSIDADES:** Um aplicativo que permita o controle de receitas e despesas do negócio,  com ferramentas de análise de contabilidade...|
+| | **OBJETIVOS:** Organizar as finanças do negócio, emitir notas fiscais, declarar o imposto de renda.|
+| | **DESAFAFIOS:** Fluxo de caixa irregular, necessidade de emitir notas fiscais, dificuldade em separar os gastos pessoais dos profissionais.|
+| | **NECESSIDADES:** Um aplicativo que permita o controle de receitas e despesas do negócio,  com ferramentas de análise de contabilidade.|
 
 
 
