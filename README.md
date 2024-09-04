@@ -2,9 +2,9 @@
 
 `ANÁLISE E DESENVOLVIMENTO DE SOFTWARE`
 
-`DESENVOLVIMENTO DE UMA APLICAÇÃO MOVEL EM UM AMBIENTE DE NEGÓCIO
+`DESENVOLVIMENTO DE UMA APLICAÇÃO MOVEL EM UM AMBIENTE DE NEGÓCIO`
 
-`3° SEMESTRE
+`3° SEMESTRE`
 
 Será desenvolvido um aplicativo móvel que auxilie os usuários a gerenciar suas finanças de forma eficiente e prática. A ferramenta terá como foco principal oferecer um conjunto de recursos que permitam o acompanhamento de receitas, despesas, investimentos e metas financeiras.
 
@@ -21,7 +21,7 @@ Será desenvolvido um aplicativo móvel que auxilie os usuários a gerenciar sua
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+<!--Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.-->
 
 # Documentação
 
