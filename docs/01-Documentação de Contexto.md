@@ -5,7 +5,7 @@ O aplicativo possui outro ponto de destaque que é a possibilidade de definir me
 
 ## Problema
 
-Grande parte da população é negativamente afetada pela falta de controle financeiro. De acordo com levantamento feito pelo Serasa (2024), mais de 72 milhões de brasileiros atualmente tem dívidas registradas, com o valor médio das que são pagas reportado em cerca de 750 reais. Pode ser observado que com a maior digitalização das transações financeiras, nem sempre as finanças do indivíduo podem ser observadas com exatidão e isso pode contribuir para a vulnerabilidade financeira de diferentes formas. Por exemplo: 
+Grande parte da população é negativamente afetada pela falta de controle financeiro. De acordo com levantamento feito pelo Serasa (2023), mais de 72 milhões de brasileiros atualmente tem dívidas registradas, com o valor médio das que são pagas reportado em cerca de 750 reais. Pode ser observado que com a maior digitalização das transações financeiras, nem sempre as finanças do indivíduo podem ser observadas com exatidão e isso pode contribuir para a vulnerabilidade financeira de diferentes formas. Por exemplo: 
 
 A dificuldade em acompanhar de forma centralizada todas as transações como receitas, despesas, e investimentos impede uma visão clara da situação financeira. 
 
