@@ -47,13 +47,11 @@ Em resumo, um aplicativo de controle financeiro pessoal é uma ferramenta essenc
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público-alvo para um aplicativo de controle financeiro pessoal é bastante amplo, abrangendo desde estudantes até profissionais liberais e famílias. No entanto, é possível identificar alguns segmentos com necessidades específicas, que podem ser o foco principal do seu aplicativo:
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Segmentos de Público-Alvo:
+Estudantes e jovens: Buscam ferramentas simples e intuitivas para controlar gastos com alimentação, transporte e lazer, além de recursos para criar uma reserva financeira para estudos ou viagens.
+Profissionais iniciantes: Precisam de um aplicativo que os ajude a organizar as finanças, definir metas de economia e acompanhar os gastos com cartão de crédito.
+Famílias: Valorizam ferramentas para controle de gastos compartilhados, criação de orçamentos familiares e acompanhamento das finanças dos filhos.
+Pessoas com dívidas: Buscam um aplicativo que os ajude a organizar as dívidas, criar um plano de pagamento e acompanhar a evolução do endividamento.
+Investidores iniciantes: Desejam um aplicativo que permita acompanhar seus investimentos, simular diferentes cenários e aprender sobre educação financeira.
