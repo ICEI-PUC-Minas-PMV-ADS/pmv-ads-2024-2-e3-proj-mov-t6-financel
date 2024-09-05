@@ -10,7 +10,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 | FOTO               | INFORMAÇÕES COLETADAS                                     |                     
 |--------------------|-----------------------------------------------------------|
-|![image](https://github.com/user-attachments/assets/2541ca97-cff0-4f18-969a-7832892698d1) | **João**
+|![image](https://github.com/user-attachments/assets/13368f9c-f4ec-4917-ba18-86618cab309b)| **João**
 |**Idade:** | 20 anos
 |**OCUPAÇÃO:** |  Estudante de engenharia.|
 |**OBJETIVOS:**|  Controlar gastos com alimentação, transporte e lazer, economizar para uma viagem e pagar as contas.|
