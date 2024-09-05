@@ -10,11 +10,12 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 | FOTO               | INFORMAÇÕES COLETADAS                                     |                     
 |--------------------|-----------------------------------------------------------|
-|![JOÃO ]()|**JOÃO** <br><br> **Idade:** 20 anos |
-| | **OCUPAÇÃO:** Estudante de engenharia.|
-| | **OBJETIVOS:** Controlar gastos com alimentação, transporte e lazer, economizar para uma viagem e pagar as contas.|
-| | **DESAFAFIOS:** Orçamento limitado, gastos impulsivos, dificuldade em poupar.|
-| | **NECESSIDADES:** Um aplicativo simples e intuitivo, com recursos de orçamento e metas, que possa ser acessado pelo celular.|
+|![image](https://github.com/user-attachments/assets/2541ca97-cff0-4f18-969a-7832892698d1) | **João**
+|**Idade:** | 20 anos
+|**OCUPAÇÃO:** |  Estudante de engenharia.|
+|**OBJETIVOS:**|  Controlar gastos com alimentação, transporte e lazer, economizar para uma viagem e pagar as contas.|
+|**DESAFAFIOS:** |  Orçamento limitado, gastos impulsivos, dificuldade em poupar.|
+|**NECESSIDADES:** |  Um aplicativo simples e intuitivo, com recursos de orçamento e metas, que possa ser acessado pelo celular.|
 
 | FOTO               | INFORMAÇÕES COLETADAS                                     |                     
 |--------------------|-----------------------------------------------------------|
@@ -40,8 +41,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| João               | Controlar meus gastos              | Poder viajar e pagar contas            |
+| Administrador      | Alterar permissões                 | Permitir que possam administrar seu perfil |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
