@@ -27,7 +27,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 | FOTO               | INFORMAÇÕES COLETADAS                                     |                     
 |--------------------|-----------------------------------------------------------|
-|![LUCAS ]()|**LUCAS** <br><br> **Idade:** 30 anos |
+|![LUCAS ](https://st3.depositphotos.com/1743476/16188/i/600/depositphotos_161885550-stock-photo-proud-latin-man.jpg)|**LUCAS** <br><br> **Idade:** 30 anos |
 | | **OCUPAÇÃO:** Free Lancer.|
 | | **OBJETIVOS:** Organizar as finanças do negócio, emitir notas fiscais, declarar o imposto de renda.|
 | | **DESAFIOS:** Fluxo de caixa irregular, necessidade de emitir notas fiscais, dificuldade em separar os gastos pessoais dos profissionais.|
