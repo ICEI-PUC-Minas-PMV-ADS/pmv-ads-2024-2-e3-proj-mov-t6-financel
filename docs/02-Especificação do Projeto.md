@@ -43,12 +43,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 | João               | Controlar meus gastos              | Poder viajar e pagar contas            |
 | Administrador      | Alterar permissões                 | Permitir que possam administrar seu perfil |
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
 | Ana              | Controlar gastos  da familia            | Poder economizar para ter renda para educação dos filhos           |
 | Dona de casa     | compartilhamento com o cônjuge              | Permitir administrar seus gasto |
+| Lucas (Freelancer) | Separar gastos em grupos            | Poder visualizar meus gastos pessoais e de negócios separadamente |
+| Lucas (Freelancer) | Visualizar a progressão de entrada de dinheiro | Poder tomar decisões a respeito de freelas que pego. |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+<!--Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
@@ -56,6 +56,8 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 > - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
 > - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
 > - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+
+-->
 
 ## Modelagem do Processo de Negócio 
 
