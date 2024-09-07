@@ -94,6 +94,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| O usuário deve poder cadastrar diferentes tipos de contas (corrente, poupança, cartão de crédito) e suas respectivas instituições financeiras. | ALTA | 
 |RF-002| O usuário deve ter a capacidade de registrar todas as suas transações financeiras, incluindo receitas e despesas, com data, valor e categoria.   | MÉDIA |
+|RF-003| O aplicativo deve sugerir dicas sobre melhor controle financeiro.  | BAIXA |
 
 ### Requisitos não Funcionais
 
@@ -101,6 +102,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O aplicativo deve ser rápido e responsivo, permitindo que o usuário realize consultas e atualizações de forma ágil. | MÉDIA | 
 |RNF-002| O aplicativo deve adotar as melhores práticas de segurança para prevenir acessos não autorizados e vazamentos de dados. |  MÉDIA | 
+|RNF-003| O aplicativo deve funcionar 24 horas por dia, 7 dias por semana. |  ALTA | 
+|RNF-004| O aplicativo deve ser capaz de lidar com um grande número de usuários simultâneos sem comprometer o desempenho ou a disponibilidade... |  MÉDIA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
