@@ -103,7 +103,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| O aplicativo deve ser rápido e responsivo, permitindo que o usuário realize consultas e atualizações de forma ágil. | MÉDIA | 
 |RNF-002| O aplicativo deve adotar as melhores práticas de segurança para prevenir acessos não autorizados e vazamentos de dados. |  MÉDIA | 
 |RNF-003| O aplicativo deve funcionar 24 horas por dia, 7 dias por semana. |  ALTA | 
-|RNF-004| O aplicativo deve ser capaz de lidar com um grande número de usuários simultâneos sem comprometer o desempenho ou a disponibilidade... |  MÉDIA | 
+|RNF-004| O aplicativo deve ser capaz de lidar com um grande número de usuários simultâneos sem comprometer o desempenho ou a disponibilidade. |  MÉDIA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
