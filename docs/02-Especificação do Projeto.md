@@ -19,7 +19,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 | FOTO               | INFORMAÇÕES COLETADAS                                     |                     
 |--------------------|-----------------------------------------------------------|
-|![ANA ]()|**ANA** <br><br> **Idade:** 46 anos |
+|![ANA](https://www.pngegg.com/pt/png-zwjrk)|**ANA** <br><br> **Idade:** 46 anos |
 | | **OCUPAÇÃO:** Dona de Casa.|
 | | **OBJETIVOS:** Controlar os gastos da família, pagar as contas em dia, economizar para a educação dos filhos.|
 | | **DESAFIOS:** Muitos gastos fixos, dificuldade em acompanhar todas as contas, falta de tempo para gerenciar as finanças.|
