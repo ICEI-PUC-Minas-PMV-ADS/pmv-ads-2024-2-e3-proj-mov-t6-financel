@@ -10,7 +10,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 | FOTO               | INFORMAÇÕES COLETADAS                                     |                     
 |--------------------|-----------------------------------------------------------|
-|![image](https://github.com/user-attachments/assets/13368f9c-f4ec-4917-ba18-86618cab309b)| **João**
+|<img src="https://github.com/user-attachments/assets/13368f9c-f4ec-4917-ba18-86618cab309b" width="400"/>| **João**
 |**Idade:** | 20 anos
 |**OCUPAÇÃO:** |  Estudante de engenharia.|
 |**OBJETIVOS:**|  Controlar gastos com alimentação, transporte e lazer, economizar para uma viagem e pagar as contas.|
@@ -19,7 +19,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 | FOTO               | INFORMAÇÕES COLETADAS                                     |                     
 |--------------------|-----------------------------------------------------------|
-|![image](https://static5.depositphotos.com/1046535/502/i/950/depositphotos_5024715-stock-photo-mother-with-children-having-a.jpg)|**ANA** <br><br> **Idade:** 46 anos |
+|<img src="https://static5.depositphotos.com/1046535/502/i/950/depositphotos_5024715-stock-photo-mother-with-children-having-a.jpg" width="610"/>|**ANA** <br><br> **Idade:** 46 anos |
 | | **OCUPAÇÃO:** Dona de Casa.|
 | | **OBJETIVOS:** Controlar os gastos da família, pagar as contas em dia, economizar para a educação dos filhos.|
 | | **DESAFIOS:** Muitos gastos fixos, dificuldade em acompanhar todas as contas, falta de tempo para gerenciar as finanças.|
@@ -27,7 +27,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 | FOTO               | INFORMAÇÕES COLETADAS                                     |                     
 |--------------------|-----------------------------------------------------------|
-|![LUCAS ](https://st3.depositphotos.com/1743476/16188/i/600/depositphotos_161885550-stock-photo-proud-latin-man.jpg)|**LUCAS** <br><br> **Idade:** 30 anos |
+|<img src="https://st3.depositphotos.com/1743476/16188/i/600/depositphotos_161885550-stock-photo-proud-latin-man.jpg" width="540"/>|**LUCAS** <br><br> **Idade:** 30 anos |
 | | **OCUPAÇÃO:** Free Lancer.|
 | | **OBJETIVOS:** Organizar as finanças do negócio, emitir notas fiscais, declarar o imposto de renda.|
 | | **DESAFIOS:** Fluxo de caixa irregular, necessidade de emitir notas fiscais, dificuldade em separar os gastos pessoais dos profissionais.|
@@ -101,6 +101,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| O usuário deve poder cadastrar diferentes tipos de contas (corrente, poupança, cartão de crédito) e suas respectivas instituições financeiras. | ALTA | 
 |RF-002| O usuário deve ter a capacidade de registrar todas as suas transações financeiras, incluindo receitas e despesas, com data, valor e categoria.   | MÉDIA |
 |RF-003| O aplicativo deve sugerir dicas sobre melhor controle financeiro.  | BAIXA |
+|RF-004| O aplicativo deve permitir filtrar as despesas por categoria.  | MÉDIA |
+|RF-005| O aplicativo deve permitir a visualização da progressão dos gastos e receita em um período de tempo selecionado.  | BAIXA |
 
 ### Requisitos não Funcionais
 
